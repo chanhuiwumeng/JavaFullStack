@@ -1,0 +1,23 @@
+{
+  "name": "java_full_stack",
+  "version": "1.0.0",
+  "description": "java全栈知识体系",
+  "main": "index.js",
+  "author": "chanhuiwumeng",
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^2.0.0-beta.51",
+    "@vuepress/plugin-docsearch": "^2.0.0-beta.51",
+    "@vuepress/plugin-medium-zoom": "^2.0.0-beta.51",
+    "@vuepress/plugin-nprogress": "^2.0.0-beta.51",
+    "@vuepress/plugin-search": "^2.0.0-beta.51",
+    "vuepress": "^2.0.0-beta.51",
+    "vuepress-plugin-copy-code2": "^2.0.0-beta.104",
+    "vuepress-plugin-photo-swipe": "^2.0.0-beta.104"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  }
+}
