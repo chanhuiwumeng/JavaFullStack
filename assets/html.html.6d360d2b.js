@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,b as e,d as o}from"./app.371700cb.js";const r={},s=e("h1",{id:"html",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#html","aria-hidden":"true"},"#"),o(" HTML")],-1),n=[s];function _(d,h){return a(),c("div",null,n)}const i=t(r,[["render",_],["__file","html.html.vue"]]);export{i as default};

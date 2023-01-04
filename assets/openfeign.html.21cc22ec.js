@@ -1,0 +1,1 @@
+import{_ as n,o,c as t,b as e,d as a}from"./app.371700cb.js";const c={},r=e("h1",{id:"openfeign",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#openfeign","aria-hidden":"true"},"#"),a(" OpenFeign")],-1),s=[r];function i(_,d){return o(),t("div",null,s)}const h=n(c,[["render",i],["__file","openfeign.html.vue"]]);export{h as default};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0b4adee0","path":"/microservices/springcloudalibaba/Sentinel.html","title":"Sentinel","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1672815948000,"contributors":[{"name":"chanhuiwumeng","email":"523489273@qq.com","commits":1}]},"filePathRelative":"microservices/springcloudalibaba/Sentinel.md"}');export{e as data};

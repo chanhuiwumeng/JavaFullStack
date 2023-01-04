@@ -1,0 +1,1 @@
+import{_ as a,o as t,c,b as e,d as o}from"./app.371700cb.js";const r={},s=e("h1",{id:"springcloudgateway",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#springcloudgateway","aria-hidden":"true"},"#"),o(" SpringCloudGateway")],-1),n=[s];function d(_,i){return t(),c("div",null,n)}const h=a(r,[["render",d],["__file","Gateway.html.vue"]]);export{h as default};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d6efe9b8","path":"/framework/spring/springmvc.html","title":"SpringMVC","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1672815948000,"contributors":[{"name":"chanhuiwumeng","email":"523489273@qq.com","commits":1}]},"filePathRelative":"framework/spring/springmvc.md"}');export{e as data};

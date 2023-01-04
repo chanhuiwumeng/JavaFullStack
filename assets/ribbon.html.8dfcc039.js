@@ -1,0 +1,1 @@
+import{_ as o,o as r,c as t,b as e,d as n}from"./app.371700cb.js";const a={},c=e("h1",{id:"ribbon",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#ribbon","aria-hidden":"true"},"#"),n(" Ribbon")],-1),s=[c];function i(_,d){return r(),t("div",null,s)}const h=o(a,[["render",i],["__file","ribbon.html.vue"]]);export{h as default};

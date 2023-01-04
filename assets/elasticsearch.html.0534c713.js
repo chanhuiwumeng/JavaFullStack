@@ -1,0 +1,1 @@
+import{_ as a,o as c,c as s,b as e,d as t}from"./app.371700cb.js";const r={},o=e("h1",{id:"elasticsearch",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#elasticsearch","aria-hidden":"true"},"#"),t(" ElasticSearch")],-1),i=[o];function n(_,h){return c(),s("div",null,i)}const d=a(r,[["render",n],["__file","elasticsearch.html.vue"]]);export{d as default};

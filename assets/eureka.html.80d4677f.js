@@ -1,0 +1,1 @@
+import{_ as a,o as r,c as t,b as e,d as c}from"./app.371700cb.js";const o={},s=e("h1",{id:"eureka",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#eureka","aria-hidden":"true"},"#"),c(" Eureka")],-1),n=[s];function _(d,i){return r(),t("div",null,n)}const h=a(o,[["render",_],["__file","eureka.html.vue"]]);export{h as default};

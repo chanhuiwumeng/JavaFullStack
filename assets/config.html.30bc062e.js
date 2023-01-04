@@ -1,0 +1,1 @@
+import{_ as o,o as c,c as n,b as e,d as t}from"./app.371700cb.js";const r={},a=e("h1",{id:"springcloudconfig",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#springcloudconfig","aria-hidden":"true"},"#"),t(" SpringCloudConfig")],-1),s=[a];function i(d,_){return c(),n("div",null,s)}const l=o(r,[["render",i],["__file","config.html.vue"]]);export{l as default};

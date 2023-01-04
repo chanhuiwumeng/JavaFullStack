@@ -1,0 +1,1 @@
+import{_ as t,o as n,c as a,b as e,d as s}from"./app.371700cb.js";const c={},o=e("h1",{id:"sentinel",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#sentinel","aria-hidden":"true"},"#"),s(" Sentinel")],-1),r=[o];function i(_,l){return n(),a("div",null,r)}const h=t(c,[["render",i],["__file","Sentinel.html.vue"]]);export{h as default};

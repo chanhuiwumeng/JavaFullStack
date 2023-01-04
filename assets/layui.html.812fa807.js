@@ -1,0 +1,1 @@
+import{_ as a,o as t,c,b as e,d as o}from"./app.371700cb.js";const r={},s=e("h1",{id:"layui",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#layui","aria-hidden":"true"},"#"),o(" LayUI")],-1),n=[s];function _(i,d){return t(),c("div",null,n)}const h=a(r,[["render",_],["__file","layui.html.vue"]]);export{h as default};

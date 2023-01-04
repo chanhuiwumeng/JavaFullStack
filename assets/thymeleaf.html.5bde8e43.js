@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,b as e,d as o}from"./app.371700cb.js";const r={},s=e("h1",{id:"thymeleaf",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#thymeleaf","aria-hidden":"true"},"#"),o(" Thymeleaf")],-1),n=[s];function _(h,l){return a(),c("div",null,n)}const f=t(r,[["render",_],["__file","thymeleaf.html.vue"]]);export{f as default};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f22f4b12","path":"/microservices/springcloud/hystrix.html","title":"Hystrix","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1672815948000,"contributors":[{"name":"chanhuiwumeng","email":"523489273@qq.com","commits":1}]},"filePathRelative":"microservices/springcloud/hystrix.md"}');export{e as data};

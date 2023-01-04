@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-fbca8c42","path":"/database/mongodb/mongodb.html","title":"MongoDB","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1672815948000,"contributors":[{"name":"chanhuiwumeng","email":"523489273@qq.com","commits":1}]},"filePathRelative":"database/mongodb/mongodb.md"}');export{a as data};

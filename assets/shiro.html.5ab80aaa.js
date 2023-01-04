@@ -1,0 +1,1 @@
+import{_ as o,o as r,c as s,b as e,d as t}from"./app.371700cb.js";const a={},c=e("h1",{id:"shiro",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#shiro","aria-hidden":"true"},"#"),t(" Shiro")],-1),i=[c];function n(_,h){return r(),s("div",null,i)}const l=o(a,[["render",n],["__file","shiro.html.vue"]]);export{l as default};

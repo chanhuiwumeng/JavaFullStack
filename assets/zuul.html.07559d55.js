@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-353c933a","path":"/microservices/springcloud/zuul.html","title":"Zuul","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1672815948000,"contributors":[{"name":"chanhuiwumeng","email":"523489273@qq.com","commits":1}]},"filePathRelative":"microservices/springcloud/zuul.md"}');export{e as data};

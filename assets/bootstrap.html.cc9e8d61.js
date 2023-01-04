@@ -1,0 +1,1 @@
+import{_ as t,o,c as a,b as e,d as r}from"./app.371700cb.js";const s={},c=e("h1",{id:"boostrap",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#boostrap","aria-hidden":"true"},"#"),r(" Boostrap")],-1),n=[c];function _(d,i){return o(),a("div",null,n)}const l=t(s,[["render",_],["__file","bootstrap.html.vue"]]);export{l as default};
